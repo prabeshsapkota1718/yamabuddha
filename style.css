@@ -1,0 +1,112 @@
+h1{
+	text-align: center;
+	font-style: italic;
+	color: blue;
+
+}
+h3{
+	text-align: center;
+	font-style: italic;
+	font-size: 23px;
+	color: white;
+
+}
+
+.yama{
+	padding:10px;
+	font-size: 25px;
+	background-color:  purple;
+	font-weight: bold;
+}
+
+h2{	
+	font-style: italic;
+	text-align: left;
+	text-align: center;
+}
+table{
+	align-content: center;
+	background-color: red;
+	border-spacing: 20px;
+	text-align: left;
+	font-size: 20px;
+	outline-color: none;
+	color: white;
+	border-radius: 30px;
+	background-color: black; 
+	background-attachment: fixed;
+	font-style: italic;
+
+}
+body{
+	background-image: linear-gradient(115deg,blue,orange,magenta,orange,pink,red); 
+	background-attachment: fixed;
+	font-family: sans-serif;
+	background-image: url(YBPhotos./ybdaiimages.jpg);
+	padding: 30px;
+
+}
+tr{
+	font size: 50px; 
+}
+select{
+	margin-top: 5px;
+	color: white;
+	background-color: green;
+	width: 150px;
+	height: 50px;
+	text-align: center;
+	font-style: italic;
+	margin-left: 45%;
+	font-size: 25px;
+	border-radius: 30px;
+	margin: none;
+}
+p{
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	margin: 50px;
+}
+img{
+	width: 200px;
+	height: 200px;
+	border-radius: 20px;
+}
+.prabesh{
+	color: green;
+}
+
+.p{
+	margin-left: 10px;
+	margin-top: -200px; 
+}
+.mad{
+	margin-left: 1000px;
+	margin-top: -300px;
+}
+button{
+	border-radius: 25px;
+	transition: 0.8s;
+	padding: 8px;
+	font-weight: bold;
+	background-color: blue;
+	margin-left: 700px;
+	color: green;
+}
+.LEGEND.Y{
+	color: yellow;
+}
+.LEGEND{
+	color: yellow;
+}
+img{
+  background-color: yellow;
+  transition: 1s;
+		}
+		img:hover{
+			transform: scale(1.2);
+			transform: rotate(5deg);
+
+}
